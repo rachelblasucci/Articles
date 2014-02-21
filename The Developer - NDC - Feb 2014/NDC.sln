@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AwaitObservable", "AwaitObservable\AwaitObservable.fsproj", "{226F8797-82E6-4EA5-801C-4FFC66EB716C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Events", "Events\Events.fsproj", "{F3A93321-A7CA-40D6-8063-632647B38BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226F8797-82E6-4EA5-801C-4FFC66EB716C}.Debug|x86.ActiveCfg = Debug|x86
+		{226F8797-82E6-4EA5-801C-4FFC66EB716C}.Debug|x86.Build.0 = Debug|x86
+		{226F8797-82E6-4EA5-801C-4FFC66EB716C}.Release|x86.ActiveCfg = Release|x86
+		{226F8797-82E6-4EA5-801C-4FFC66EB716C}.Release|x86.Build.0 = Release|x86
+		{F3A93321-A7CA-40D6-8063-632647B38BAD}.Debug|x86.ActiveCfg = Debug|x86
+		{F3A93321-A7CA-40D6-8063-632647B38BAD}.Debug|x86.Build.0 = Debug|x86
+		{F3A93321-A7CA-40D6-8063-632647B38BAD}.Release|x86.ActiveCfg = Release|x86
+		{F3A93321-A7CA-40D6-8063-632647B38BAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
